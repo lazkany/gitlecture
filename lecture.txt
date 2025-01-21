@@ -5,4 +5,4 @@ one more
 
 amend
 
-diverge
+no diverge
