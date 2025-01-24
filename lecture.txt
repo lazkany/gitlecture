@@ -8,3 +8,5 @@ amend
 no diverge
 
 diverge again
+
+nothing
